@@ -1,1 +1,1 @@
-# opensap
+# openSAP Developing Web Apps with SAPUI5
